@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/KaraPortfolio.github.io/static/css/main.a8f89cb8.css",
-    "main.js": "/KaraPortfolio.github.io/static/js/main.fcb3ceb1.js",
-    "static/js/787.5b0f91c5.chunk.js": "/KaraPortfolio.github.io/static/js/787.5b0f91c5.chunk.js",
-    "static/media/logoNoBorder.png": "/KaraPortfolio.github.io/static/media/logoNoBorder.de511e093de1eb5d1ee9.png",
-    "static/media/performHere.png": "/KaraPortfolio.github.io/static/media/performHere.5f3be48ce2016791a07d.png",
-    "static/media/keeper.png": "/KaraPortfolio.github.io/static/media/keeper.d4ee1482b223932634d8.png",
-    "static/media/tvf.png": "/KaraPortfolio.github.io/static/media/tvf.412fab38d1f2360f598b.png",
-    "static/media/favicon.png": "/KaraPortfolio.github.io/static/media/favicon.13653ec4dac3e6c1f287.png",
-    "static/media/ka.png": "/KaraPortfolio.github.io/static/media/ka.42c8085a46f4037cbf98.png",
-    "static/media/pixelgram.png": "/KaraPortfolio.github.io/static/media/pixelgram.c96b7a6a44ecb19cfb69.png",
-    "index.html": "/KaraPortfolio.github.io/index.html",
-    "main.a8f89cb8.css.map": "/KaraPortfolio.github.io/static/css/main.a8f89cb8.css.map",
-    "main.fcb3ceb1.js.map": "/KaraPortfolio.github.io/static/js/main.fcb3ceb1.js.map",
-    "787.5b0f91c5.chunk.js.map": "/KaraPortfolio.github.io/static/js/787.5b0f91c5.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.a8f89cb8.css",
+    "main.js": "/Portfolio/static/js/main.03bca801.js",
+    "static/js/787.5b0f91c5.chunk.js": "/Portfolio/static/js/787.5b0f91c5.chunk.js",
+    "static/media/logoNoBorder.png": "/Portfolio/static/media/logoNoBorder.de511e093de1eb5d1ee9.png",
+    "static/media/performHere.png": "/Portfolio/static/media/performHere.5f3be48ce2016791a07d.png",
+    "static/media/keeper.png": "/Portfolio/static/media/keeper.d4ee1482b223932634d8.png",
+    "static/media/tvf.png": "/Portfolio/static/media/tvf.412fab38d1f2360f598b.png",
+    "static/media/favicon.png": "/Portfolio/static/media/favicon.13653ec4dac3e6c1f287.png",
+    "static/media/ka.png": "/Portfolio/static/media/ka.42c8085a46f4037cbf98.png",
+    "static/media/pixelgram.png": "/Portfolio/static/media/pixelgram.c96b7a6a44ecb19cfb69.png",
+    "index.html": "/Portfolio/index.html",
+    "main.a8f89cb8.css.map": "/Portfolio/static/css/main.a8f89cb8.css.map",
+    "main.03bca801.js.map": "/Portfolio/static/js/main.03bca801.js.map",
+    "787.5b0f91c5.chunk.js.map": "/Portfolio/static/js/787.5b0f91c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8f89cb8.css",
-    "static/js/main.fcb3ceb1.js"
+    "static/js/main.03bca801.js"
   ]
 }
