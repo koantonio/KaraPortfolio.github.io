@@ -1,0 +1,33 @@
+.expertiseContainer {
+    font-family: ':Merriweather';
+    /* background-color: var(--overlay);  */
+     /* color: #fff; */
+    /* background-color: #f3e1d8; */
+    /* background-color: pink; */
+    /* margin-top: 150px; */
+    height: 100vh;
+    width: 100%;
+    margin-top: 400px;
+    /* padding-top: 150px;  */
+    /* position: absolute; */
+    display: inline-block;
+    position: relative;
+}
+
+.title{
+    font-family: ‘Merriweather’, Georgia, serif; 
+    text-align: center;
+}
+
+.skillType{
+    max-width: 1000px;
+    margin: auto;
+    color: #b57281 ;
+    /* text-align: center; */
+}
+
+p{
+    max-width: 1000px;
+    margin: auto;
+    /* text-align: center; */
+}

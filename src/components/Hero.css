@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+  }
+
+.hero {
+    font-family: ':Merriweather';
+    /* background-color: var(--overlay);  */
+     color: #fff;
+    /* background-color: #f3e1d8; */
+    /* background-color: pink; */
+    height: 100vh;
+    width: 100%;
+    padding-top: 150px; 
+    /* position: absolute; */
+    display: inline-block;
+    /* position: relative; */
+}
+
+.hi {
+    /* padding-top: 80px; */
+    box-sizing: border-box;
+    color: #434854;
+    font-size: 40px;
+    /* font-family: 'SF Mono','Fira Code','Fira Mono','Roboto Mono',monospace; */
+    /* display: block; */
+    /* margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+}
+.titleHero{
+font-size: 100px; 
+color: #292C33;
+}
+
+
+.profSummary{
+font-size: 30px;
+color: #434854;
+
+}
+/* .imgDiv{
+width: 50%;
+float:right;
+} */
+.socialMediaIcons{
+padding-top: 15px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* on PC */
+@media screen and (min-width: 550px) {
+    .imgDiv {
+      float: right;
+      width: 40%;
+      /* padding-right: 15px; */
+      /* padding-top: 90px; */
+    }
+    .imgDiv img{
+      width: 100%;
+    }
+    .textHero {
+      float: left;
+      width: 50%;
+      padding-left: 50px;
+      margin-top: 100px;
+    }
+  }
+  /* on Mobile */
+  @media screen and (max-width: 550px) {
+    .imgDiv {
+      width: 100%;
+    }
+    .imgDiv img {
+      width: 100%;
+    }
+    .textHero {
+      width: 100%;
+    }
+  }
