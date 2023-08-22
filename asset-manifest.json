@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kara-portfolio/static/css/main.15c9d3cf.css",
+    "main.js": "/kara-portfolio/static/js/main.a46d71de.js",
+    "static/media/logoNoBorder.png": "/kara-portfolio/static/media/logoNoBorder.de511e093de1eb5d1ee9.png",
+    "static/media/performHere.png": "/kara-portfolio/static/media/performHere.5f3be48ce2016791a07d.png",
+    "static/media/keeper.png": "/kara-portfolio/static/media/keeper.d4ee1482b223932634d8.png",
+    "static/media/tvf.png": "/kara-portfolio/static/media/tvf.412fab38d1f2360f598b.png",
+    "static/media/favicon.png": "/kara-portfolio/static/media/favicon.13653ec4dac3e6c1f287.png",
+    "static/media/ka.png": "/kara-portfolio/static/media/ka.42c8085a46f4037cbf98.png",
+    "static/media/pixelgram.png": "/kara-portfolio/static/media/pixelgram.c96b7a6a44ecb19cfb69.png",
+    "index.html": "/kara-portfolio/index.html",
+    "main.15c9d3cf.css.map": "/kara-portfolio/static/css/main.15c9d3cf.css.map",
+    "main.a46d71de.js.map": "/kara-portfolio/static/js/main.a46d71de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15c9d3cf.css",
+    "static/js/main.a46d71de.js"
+  ]
+}
