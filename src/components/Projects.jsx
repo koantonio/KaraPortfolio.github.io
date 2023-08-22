@@ -1,14 +1,10 @@
 import React from 'react'
-/* import john from './images/john-doe.png' */
-// import { useNavigate } from "react-router-dom";
 import './Projects.css';
 import ProjectItem from "./ProjectItem";
 import { ProjectList } from "../helpers/ProjectList";
-import favicon from "../projectImages/favicon.png"
 import './Hero';
 
 const Projects = () => {
-    // const navigate = useNavigate();
     return (
         <div id="projects" className='projects'>
           <br/><br/><br/><br/>

@@ -1,5 +1,4 @@
 import React from 'react'
-/* import john from './images/john-doe.png' */
 import './Expertise.css';
 
 const Expertise = () => {
