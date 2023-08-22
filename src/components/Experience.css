@@ -4,27 +4,18 @@
 
   .experience {
     font-family: ':Merriweather';
-    /* background-color: var(--overlay);  */
-     /* color: #fff; */
-    /* background-color: #f3e1d8; */
-    /* background-color: pink; */
-    /* margin-top: 150px; */
     height: 100vh;
     width: 100%;
-    /* padding-top: 150px;  */
-    /* position: absolute; */
     display: inline-block;
 }
 
 /* on PC */
 @media screen and (min-height: 550px)  {
     .vertical-timeline {
-        /* width: 95%; */
         max-width: 1170px;
         margin: 0 auto;
         position: relative;
         padding: 2em 0;
-        /* height: 100vh; */
         width: 100%;
     }
     .experienceTitle{
@@ -32,21 +23,17 @@
         font-size: 40px;
         font-weight: bold;
         text-align: center;
-        /* margin-top: 400px; */
     }
     
   }
   /* on Mobile */
   @media screen and (max-height: 550px)  {
     .vertical-timeline {
-        /* width: 95%; */
         max-width: 1170px;
         margin: 0 auto;
         position: relative;
         padding: 2em 0;
-        /* height: 100vh; */
         width: 100%;
-        /* margin-top: 400px; */
     }
     .experienceTitle{
         font-family: ':Merriweather';

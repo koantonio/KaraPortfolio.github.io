@@ -5,7 +5,7 @@ import './Hero.css'
 
 const Hero = () => {
     return (
-        <div className='hero'>
+        <div id="hero" className='hero'>
             <div className='textHero'>
                 {/* <div className='hi'>Hi, I'm :</div> */}
                 <div className='titleHero'>

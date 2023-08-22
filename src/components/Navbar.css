@@ -12,23 +12,19 @@
 }
 
 .logo{
-    /* position: absolute; */
     position: relative;
     left: 0;
     top: 0;
-    /* margin-left: -300px; */
 }
+
 .logoSize{
     max-width: 50%;
-    /* width: 20px; */
-
-  
 }
+
 .header .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* max-width: 1240px; */
     max-width: 100%;
     margin: auto;
     height: 100%;
@@ -53,15 +49,12 @@
     padding: 1rem;
     font-family:Merriweather, serif ;
     font-weight: bold;
-    /* font-weight: 200; */
     list-style-type: none;
-    /* padding: 0; */
 }
 
 .header .nav-item a:hover {
     text-decoration: underline;
     padding-bottom: 12px;
-    /* border-bottom: 3px solid var(--secondary-color); */
 }
 
 .hamburger {
@@ -72,7 +65,6 @@
 @media screen and (max-width:940px) {
     .header {
         max-width: 100%;
-        /* background-color: #f3e1d8; */
     }
 
     .header .navbar {

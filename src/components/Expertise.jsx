@@ -4,16 +4,6 @@ import './Expertise.css';
 const Expertise = () => {
     return (
         <div className='expertiseContainer' id='expertise'>
-            
-                {/* <img src={john} alt='john' /> */}
-
-
-{/* <br/>
-<br/>
-<br/>
-<br/>
-<br/>
- */}
 
                     <br/>
                     <h1 className='title'>Skills</h1>

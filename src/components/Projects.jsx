@@ -9,7 +9,7 @@ const Projects = () => {
         <div id="projects" className='projects'>
           <br/><br/><br/><br/>
           <h1>Projects</h1>
-          <p>For more info checkout my <a className="github" href="https://github.com/koantonio">GitHub!</a>
+          <p>For more project info checkout my <a className="github" href="https://github.com/koantonio">GitHub!</a>
             
           </p>
           <div className="projectList">
